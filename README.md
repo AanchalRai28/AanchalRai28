@@ -1,177 +1,78 @@
-🌟 Hi, I'm Aanchal Rai (She/Her)
-AIML Enthusiast | Aspiring Data Scientist | Python Developer | BCA’26 | Lucknow University
+👋 Hi there, I'm Aanchal Rai
 
-Passionate about Artificial Intelligence, Machine Learning, Data Science, and building intelligent, meaningful solutions. I enjoy transforming data into insights, designing AI workflows, and exploring creative applications of emerging technologies.
+AIML Enthusiast | Aspiring Data Scientist | Python Developer | BCA (AIML) ’26
 
-🚀 About Me
+✨ Passionate about Artificial Intelligence, Data Science, and building creative AI-powered solutions.
+🎯 Driven to transform ideas into intelligent, data-backed outcomes.
 
-I’m a 3rd-year BCA (AIML) student at the School of Management Sciences, Lucknow, actively growing through hands-on learning, research, and real-world internships.
+🎖️ Badges Overview
+🚀 Languages & Tools
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-004488?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </p>
+🧠 AI / ML & Data
+<p align="left"> <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Artificial%20Intelligence-0057ff?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
+🧩 Frameworks & Backend
+<p align="left"> <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/> </p>
+🎨 AI Creative Tools
+<p align="left"> <img src="https://img.shields.io/badge/MidJourney-000000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Leonardo%20AI-6C2DC7?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/HeyGen-fd5750?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> </p>
+🛠️ Tools & Soft Skills
+<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/> <img src="https://img.shields.io/badge/Communication-0078D4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge"/> </p>
+🚀 Projects
+🔍 Career Path Finder
 
-🔹 AI Research & Strategy Intern – India TV (2025)
+Python | Flask | SQL | HTML | CSS
 
-Researched and analyzed trends in emerging AI technologies
+Helps users explore personalized career paths based on skills
 
-Designed AI-driven content workflows for OTT production
+Built with Flask backend & SQL database
 
-Worked with advanced tools: ChatGPT, MidJourney, Leonardo AI, HeyGen
+🧠 AI/ML Internship Projects
+AI Research & Strategy – India TV
 
-Contributed to strategic planning and AI-based media innovation
+Designed AI workflows for OTT content
 
-Enhanced analytical thinking, creative problem-solving & research abilities
+Used ChatGPT, MidJourney, HeyGen, Leonardo AI
 
-🔹 Python Developer Intern – Codec Technologies (2025)
+Researched emerging AI models & technologies
 
-Automated tasks using Python to improve process efficiency
+Python Developer – Codec Technologies
 
-Performed data cleaning & analysis using Pandas & NumPy
+Built APIs with Django REST Framework
 
-Built & tested Flask, Django & Django REST Framework applications
+Automated tasks using Python
 
-Integrated REST APIs and collaborated using Git version control
-
-Strengthened backend development and software engineering skills
-
-🧠 Technical Skills
-💻 Programming & Development
-
-Python, C, C++, Java
-
-HTML
-
-Django, Django REST Framework
-
-Flask
-
-REST APIs
-
-Git & GitHub
-
-Software Development
-
-Operating Systems
-
-🤖 AI / ML / Data Science
-
-Machine Learning
-
-Artificial Intelligence
-
-Core ML
-
-Data Science
-
-Data Analysis
-
-Data Structures
-
-Scikit-Learn
-
-Pandas
-
-NumPy
-
-SQL
-
-Data Management
-
-🎨 AI & Creative Tools
-
-ChatGPT
-
-Midjourney
-
-Leonardo AI
-
-HeyGen
-
-Canva
-
-Prompt Design
-
-Media Research
-
-🧰 Additional Skills
-
-Microsoft Excel, Word, PowerPoint
-
-Database Applications
-
-Computer Literacy
-
-Process Efficiency
-
-Performance Improvement
-
-Leadership & Communication
-
-Presentations
-
-English & Hindi (Languages)
-
-Creativity, Travel, Read Music
+Analyzed data with Pandas & NumPy
 
 🎓 Education
-🎓 BCA (AIML)
+🎓 BCA (AIML) – School of Management Sciences, Lucknow
 
-School of Management Sciences, Lucknow
-📅 Jan 2023 – Jul 2026
-📊 CGPA: 7.8
-💡 Skills: Core ML · AI · Python · Data Analysis
+📅 2023–2026 | CGPA: 7.8
+Skills: Core ML, AI, Python, Data Analysis
 
-🎓 Senior Secondary (10+2) – PCM
+🎓 Class XII – BSY Siksha Sansthan
 
-BSY Siksha Sansthan
-📅 Apr 2021 – Apr 2023
-📊 Grade: 70%
+📅 2021–2023 | 70%
 
-🎓 High School (10th)
+🎓 Class X – MNB Memorial Public School
 
-MNB Memorial Public School
-📅 Apr 2019 – Mar 2021
-📊 Grade: 63%
+📅 2019–2021 | 63%
 
-🎯 Career Interests
+🏅 Certifications
 
-I am open to work and looking for opportunities in:
+Deloitte Technology Job Simulation – Forage
 
-Data Scientist
+AI Research & Strategy – India TV
 
-Data Analyst
+Python Development – Codec Technologies
 
-Python Developer
+Data Analytics Projects – GUVI / HCL
 
-AI Software Engineer
+Leadership & Communication – NPTEL / Others
 
-Machine Learning Engineer
+📊 GitHub Stats
 
-AI Research Intern
+Replace your-github-username with your GitHub username.
 
-🔭 My Goals
+🌐 Connect With Me
+<p align="left"> <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/aanchalrai2128/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
-Build impactful AI/ML models and data-driven applications
-
-Contribute to open-source AI tools
-
-Master deep learning and automation
-
-Grow into a full-time AI/ML professional
-
-📈 GitHub Stats
-
-AanchaRai28
-
-🤝 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/aanchalrai2128/
-
-📧 Email: anchalrai9251@gmail.com
-
-🌸 “Learning, evolving, and building the future with AI.”
-
-If you want, I can also generate:
-
-✨ A more aesthetic version with badges
-✨ A portfolio website using this information
-✨ A minimal professional version
-
-Just tell me!
+⭐ “Learning, building, and shaping the future with AI.”
