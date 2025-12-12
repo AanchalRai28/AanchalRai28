@@ -65,7 +65,10 @@ Leadership & Communication – NPTEL
 
 📊 GitHub Stats
 
-Replace AanchalRai28 with your GitHub username.
+![Aanchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AanchalRai28&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalRai28&layout=compact&theme=default)
+
 
 🌐 Connect With Me
 
