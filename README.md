@@ -72,7 +72,8 @@ Leadership & Communication – NPTEL
 
 🌐 Connect With Me
 
-LinkedIn: linkedin.com/in/aanchalrai2128
+[LinkedIn](https://www.linkedin.com/in/aanchalrai2128/)
+
 Email: anchalrai9251@gmail.com
 
 ⭐️ “Learning. Building. Evolving with AI.”
