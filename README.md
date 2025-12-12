@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm Aanchal Rai</h2>
+<h1>Hi there 👋, I'm Aanchal Rai</h1>
 
 AIML Enthusiast | Aspiring Data Scientist | Python Developer | BCA’26 (SMS Lucknow)
 
