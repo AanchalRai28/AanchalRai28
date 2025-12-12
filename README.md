@@ -1,62 +1,57 @@
-👋 Hi there, I'm Aanchal Rai
+Hi there 👋, I'm Aanchal Rai
 
-AIML Enthusiast | Aspiring Data Scientist | Python Developer | BCA (AIML) ’26
+AIML Enthusiast | Aspiring Data Scientist | Python Developer | BCA’26 (SMS Lucknow)
 
-✨ Passionate about Artificial Intelligence, Data Science, and building creative AI-powered solutions.
-🎯 Driven to transform ideas into intelligent, data-backed outcomes.
+🔧 Technical Skills
 
-🎖️ Badges Overview
-🚀 Languages & Tools
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-004488?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </p>
-🧠 AI / ML & Data
-<p align="left"> <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Artificial%20Intelligence-0057ff?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
-🧩 Frameworks & Backend
-<p align="left"> <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/> </p>
-🎨 AI Creative Tools
-<p align="left"> <img src="https://img.shields.io/badge/MidJourney-000000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Leonardo%20AI-6C2DC7?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/HeyGen-fd5750?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> </p>
-🛠️ Tools & Soft Skills
-<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/> <img src="https://img.shields.io/badge/Communication-0078D4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge"/> </p>
+Languages: Python, C, C++, Java, HTML
+Frameworks: Django, Django REST Framework, Flask
+Databases: SQL
+AI & Data Tools: Pandas, NumPy, Scikit-Learn, Machine Learning, Data Analysis
+AI Creative Tools: ChatGPT, MidJourney, Leonardo AI, HeyGen, Canva
+Tools: Git, Postman, MS Excel, MS PowerPoint, MS Word
+Operating Systems: Windows, Linux
+
+🎖️ Badges
+<p> <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-004488?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-black?style=flat&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-purple?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/MidJourney-black?style=flat"/> <img src="https://img.shields.io/badge/Leonardo%20AI-6C2DC7?style=flat"/> <img src="https://img.shields.io/badge/HeyGen-fd5750?style=flat"/> </p>
 🚀 Projects
-🔍 Career Path Finder
+🌐 Career Path Finder (example – replace with your real projects)
 
 Python | Flask | SQL | HTML | CSS
 
-Helps users explore personalized career paths based on skills
+Career guidance tool recommending suitable paths based on skills.
 
-Built with Flask backend & SQL database
+Built backend with Flask and SQL for storing & processing user data.
 
-🧠 AI/ML Internship Projects
+🤖 AI/ML Internship Projects
 AI Research & Strategy – India TV
 
-Designed AI workflows for OTT content
+Worked on AI-driven OTT content workflows.
 
-Used ChatGPT, MidJourney, HeyGen, Leonardo AI
+Used ChatGPT, MidJourney, HeyGen, Leonardo AI.
 
-Researched emerging AI models & technologies
+Researched emerging AI models and media innovations.
 
 Python Developer – Codec Technologies
 
-Built APIs with Django REST Framework
+Automated workflows using Python.
 
-Automated tasks using Python
+Built APIs with Django REST Framework.
 
-Analyzed data with Pandas & NumPy
+Performed data cleaning & visualization with Pandas and NumPy.
 
 🎓 Education
-🎓 BCA (AIML) – School of Management Sciences, Lucknow
 
-📅 2023–2026 | CGPA: 7.8
-Skills: Core ML, AI, Python, Data Analysis
+BCA (AIML), School of Management Sciences Lucknow
+2023 – 2026 | CGPA: 7.8
 
-🎓 Class XII – BSY Siksha Sansthan
+Class XII (PCM), BSY Siksha Sansthan
+2021 – 2023 | 70%
 
-📅 2021–2023 | 70%
+Class X, MNB Memorial Public School
+2019 – 2021 | 63%
 
-🎓 Class X – MNB Memorial Public School
-
-📅 2019–2021 | 63%
-
-🏅 Certifications
+🏅 Training & Certifications
 
 Deloitte Technology Job Simulation – Forage
 
@@ -64,15 +59,17 @@ AI Research & Strategy – India TV
 
 Python Development – Codec Technologies
 
-Data Analytics Projects – GUVI / HCL
+Data Analysis Projects – GUVI | HCL
 
-Leadership & Communication – NPTEL / Others
+Leadership & Communication – NPTEL
 
 📊 GitHub Stats
 
-Replace your-github-username with your GitHub username.
+Replace AanchalRai28 with your GitHub username.
 
 🌐 Connect With Me
-<p align="left"> <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/aanchalrai2128/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
-⭐ “Learning, building, and shaping the future with AI.”
+LinkedIn: linkedin.com/in/aanchalrai2128
+Email: anchalrai9251@gmail.com
+
+⭐️ “Learning. Building. Evolving with AI.”
